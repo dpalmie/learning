@@ -1,3 +1,7 @@
+/**
+ * @author Davis Palmie
+ * @version 1.0
+ */
 public class BallPlayer {
   
   // instance variables
@@ -19,7 +23,9 @@ public class BallPlayer {
   }
   
   // methods
-  public void practice() {}
+  public void practice() {
+    this.setSkill(getSkill() + 1.5);
+  }
   
   // getters and setters
   public String getName() {
@@ -52,6 +58,14 @@ public class BallPlayer {
   
   public void setSkill(double newSkill) {
     this.skill = newSkill;
+  }
+
+  // testing method
+  public static void main(String[] args) {
+    BallPlayer davis = new BallPlayer("davis");
+    davis.practice();
+    System.out.println(davis.getName());
+    System.out.println(davis.getSkill());
   }
     
 }
