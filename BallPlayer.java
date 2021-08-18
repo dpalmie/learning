@@ -83,5 +83,6 @@ public class BallPlayer {
         System.out.println(frank.getSkill());
         System.out.println(davis);
         System.out.println(frank);
+        System.out.println(davis.equals(frank));
     }
 }
