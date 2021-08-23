@@ -12,6 +12,14 @@ head = Label(text="To-Do Tracker", justify=CENTER)
 head.config(font=("TkDefaultFont", 24))
 head.grid(row=0, column=1)
 
+# listbox to hold items
+lbox = Listbox(root)
+lbox.grid(row=2, column=0, rowspan=2, columnspan=2)
+# examples - delete later
+lbox.insert(1, "to do first")
+lbox.insert(2, "to do later")
+
+
 # buttons to add or delete items
 item = tk.StringVar() # creates var we can access using get()
 itemLabel = Label(text="Enter task") # creates label
