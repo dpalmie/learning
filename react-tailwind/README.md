@@ -1,3 +1,7 @@
+# Overview:
+
+LinkedIn Learning project that I did as part of the 'Become a React Developer' path. Time will tell if it worked but this was a fun way to hone my react.js skills and learn about using tailwindcss to make it look prettier.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
