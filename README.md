@@ -3,7 +3,7 @@
 ---
 Overview of my path from BME to SWE
 - R&D internship sophomore year of GT: code a really rough web scraper in **python**, use **twilio** library to text out the info
-- Junior year of GT: take CS 1371 (intro **matlab** class)
+- Junior year of GT: take [CS 1371](https://www.cc.gatech.edu/fac/David.Smith/CS1371_2018_Fall_Syllabus.pdf) (intro **matlab** class)
 - Senior year of GT: take CS 1331 (intro to OOP) and CS 1332 (data structures & algorithms), both based in **java**
 - Super senior of GT: take CS 1301 (intro **python** class), get part-time SWE job at surgical efficiency startup 
 - Graduation: secured SWE consulting job at Slalom, staying in Atlanta
