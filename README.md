@@ -11,10 +11,12 @@
 *Industry experience:*
 - Working at surgical effieciency startup out of Houston
   - Sophomore year - code a really rough web scraper in **python**, use **twilio** library to text out the info
-  - Super senior year - work with ... 
+  - Super senior year - 
 - Graduation: secured SWE consulting job staying in Atlanta
 ---
+
 The most impactful items from the above list were definitely the part-time SWE job. This gave me exposure to working with data in python (using the **pandas, twilio, SQLAlchemy**, and **pymysql** libraries), building full stack apps using various tech stacks (first using **JavaScript, PHP, MySQL, HTML/CSS, Apache**; second using **React.js, Node.js, Express.js, Chart.js, MySQL**). Additionally, the OOP knowledge from 1331 and data structures and algorithms knowledge from 1332 were invaluable for technical interviews.
+
 ---
 #### Projects in this repo:
 - react-tailwind &rarr; using tailwind css with react.js (I'm more of a Material-UI guy)
